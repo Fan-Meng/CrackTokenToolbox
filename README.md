@@ -1,4 +1,4 @@
-# CrackToken
+# Crack Token Toolbox V1.0
 This is a crack detection toolbox based on mid-level feature Crack Token.
 
 <p>Crack Token is built based on two basic toolboxes:</p>
