@@ -6,8 +6,8 @@ This is a crack detection toolbox based on mid-level feature Crack Token.
 <p>2. Piotr's Image & Video Matlab Toolbox: http://vision.ucsd.edu/~pdollar/toolbox/doc/</p>
 <p>Please add them in Matlab search path to run Crack Token toolbox.</p>
 
-License
-Copyright 2016 Fan MENG [mengfan12@mails.ucas.ac.cn and im_feixie@163.com]
+<p>License</p>
+<p>Copyright 2016 Fan MENG [mengfan12@mails.ucas.ac.cn and im_feixie@163.com]</p>
 
-Please email me if you find any bugs, or have suggestions or questions.
-Good luck!
+<p>Please email me if you find any bugs, or have suggestions or questions.</p>
+<p>Good luck!</p>
